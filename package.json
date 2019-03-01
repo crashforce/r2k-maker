@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/crashforce/r2k-maker/issues"
   },
-  "homepage": "https://github.com/crashforce/r2k-maker#readme"
+  "homepage": "https://github.com/crashforce/r2k-maker#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.9"
+  }
 }
